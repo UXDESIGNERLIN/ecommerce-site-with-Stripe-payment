@@ -1,0 +1,6 @@
+{
+  "music": [
+    { "id": 1, "name": "Album 1", "price": 1299, "imageName": "Album1.png" }
+  ],
+  "merch": []
+}
